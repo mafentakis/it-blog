@@ -47,7 +47,7 @@ Das fühlt sich schnell nach verschwendeter Energie an.
 
 ---
 
-## Der eigentliche Wert: „teures Wissen“
+## Der eigentliche Wert: „teuer bezahltes Wissen“
 
 Auf der Reise entsteht mehr als Implementierung:
 - **ein pragmatischer Lösungsatz**
@@ -79,15 +79,13 @@ So wird jede besprochene Anforderung oder zurückgezogener BugFox zu einer Art I
 
 ## Wissen heben statt verlieren
 
-Damit dieses Wissen nicht verpufft, hilft ein leichter, wiederholbarer Prozess:
+Damit dieses Wissen nicht verpufft, sind passende passende Follow-Up Maßnahmen gefragt (am Besten von Team)
 
 1. **Dokumentation ergänzen** – Diagramme, Screens, Prozessdetails, offene Fragen
 2. **Offene Punkte sammeln** – Backlog-Items, Hypothesen, Versuchspläne
 3. **Risiken sichtbar machen** – technische Schulden, Engpässe, Abhängigkeiten
 4. **Neue Ideen festhalten** – auch wenn sie (noch) keinen Business Case haben
 5. **Anforderungen** mit prio Low oder experimentel umsetzen
-
-Ergebnis: Jede Story wird zur Investition in Verständnis, Geschwindigkeit und Qualität – unabhängig vom Merge-Status.
 
 ---
 
@@ -99,11 +97,3 @@ Sie ist ein **Startpunkt für Lernen, Austausch und gemeinsame Sprache**.
 Der Code ist das Endprodukt –  
 **das Wissen ist der eigentliche Schatz.**
 
----
-
-### Bonus: LinkedIn-Teaser (copy & paste)
-
-**User Stories: Mehr als nur Code**  
-Eine Story klingt simpel – im Refinement wird sie zur Expedition: Scope, Lösungsansätze, Abhängigkeiten, Risiken. Am Ende oft nur wenige Codezeilen oder sogar „rejected“.  
-**These:** Der Code ist der kleinste Benefit. Der eigentliche Wert ist *bezahltes Wissen*: gemeinsames Verständnis, sichtbare Risiken, neue Ideen, praktisches Lernen.  
-**Call to action:** Wissen heben statt verlieren – dokumentieren, offene Punkte sammeln, Risiken sichtbar machen.
